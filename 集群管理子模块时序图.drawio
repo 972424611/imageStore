@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T02:16:26.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1kmmwE0U6wPu8UTtW9bY" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T02:17:27.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="CWBEmQnusPb2QB83FWhI" version="19.0.3" type="github">
   <diagram id="YNXkK3RKNKg_d20Gb63L" name="Page-1">
-    <mxGraphModel dx="719" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H5Ceg5C1NVuIUo9WAE9B-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="295" y="470" width="10" height="140" as="geometry" />
+          <mxGeometry x="295" y="470" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="H5Ceg5C1NVuIUo9WAE9B-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="455" y="485" width="10" height="95" as="geometry" />
@@ -102,6 +102,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="570" as="sourcePoint" />
             <mxPoint x="465.9599999999999" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5Ceg5C1NVuIUo9WAE9B-34" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.014;exitY=0.909;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.952;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455.0000000000001" y="570.0100000000001" as="sourcePoint" />
+            <mxPoint x="304.65999999999997" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5Ceg5C1NVuIUo9WAE9B-35" value="返回入库结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.055;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.99999999999994" y="580.0000000000002" as="sourcePoint" />
+            <mxPoint x="164.45" y="580.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
